@@ -16,7 +16,7 @@ module.exports = (robot) ->
   #
   # 
   robot.respond /PING$/i, (msg) ->
-    msg.send "なんのようだなっしー！！！！"
+    msg.send "なんのようだなっしー！！！！梨汁ブシャーーーー！！！！"
   #
   #
   # robot.respond /open the (.*) doors/i, (res) ->
